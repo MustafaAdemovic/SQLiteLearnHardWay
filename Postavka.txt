@@ -1,0 +1,2 @@
+Za zadaću trebate da pročitate sve od početka do vježbe 6 (uključujući i nju), te da odradite ono što se traži u vježbama, a nalazi se na linku: http://sql.learncodethehardway.org/book/
+
